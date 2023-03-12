@@ -3,4 +3,4 @@ nestjs practice with reactjs
 
 *** Backend side with nestjs
 
-*** Client side with reactjs (intial)
+*** Client side with reactjs (initial)
